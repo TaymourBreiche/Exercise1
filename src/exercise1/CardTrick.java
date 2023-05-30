@@ -77,15 +77,15 @@ public class CardTrick {
 //        System.out.println("Congratulations, you guessed right!");
 //        System.out.println();
 //        
-//        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+//        System.out.println("My name is Taymour I'm 18 and I'm from Lebanon");
 //        System.out.println();
 //        
-//        System.out.println("My career ambitions:");
-//        System.out.println("-- Be more active on LinkedIn");?
-//        System.out.println("-- Investing");
-//        System.out.println("-- Cooking");
-//        System.out.println("-- Reading/Watching TV");
-//        System.out.println("-- Riding my motorcycle");
+//        System.out.println("My career ambitions: Become a software engineer and leave Canada");
+//        System.out.println("-- Be more active in life");?
+//        System.out.println("-- Spending time with family");
+//        System.out.println("-- Cars");
+//        System.out.println("-- Playing Video Games/Watching TV");
+//        System.out.println("-- Listening to music");
 //
 //        System.out.println();
 //        
